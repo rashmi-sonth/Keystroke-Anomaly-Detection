@@ -1,0 +1,100 @@
+participant,handedness,age,gender,nationality
+p001,Right-Handed,51,Male,Portugal
+p002,Right-Handed,31,Male,Italy
+p003,Right-Handed,21,Male,Poland
+p004,Right-Handed,33,Male,Mexico
+p005,Right-Handed,22,Male,Greece
+p006,Right-Handed,21,Male,Poland
+p007,Right-Handed,27,Female,United Kingdom
+p008,Right-Handed,24,Female,Hungary
+p009,Right-Handed,24,Female,Portugal
+p010,Right-Handed,45,Male,Estonia
+p011,Right-Handed,33,Female,Greece
+p012,Right-Handed,22,Male,Portugal
+p013,Right-Handed,22,Female,Portugal
+p014,Right-Handed,41,Male,Poland
+p015,Right-Handed,27,Male,Poland
+p016,Right-Handed,31,Female,Poland
+p017,Right-Handed,22,Female,Hungary
+p018,Left-Handed,33,Female,Latvia
+p019,Right-Handed,24,Female,Israel
+p020,Right-Handed,24,Male,Greece
+p021,Right-Handed,21,Male,Portugal
+p022,Right-Handed,27,Female,Estonia
+p023,Right-Handed,35,Male,Pakistan
+p024,Right-Handed,20,Male,Spain
+p025,Right-Handed,21,Female,Portugal
+p026,Left-Handed,23,Female,Greece
+p027,Right-Handed,24,Female,Germany
+p028,Right-Handed,19,Female,Poland
+p029,Right-Handed,18,Male,Portugal
+p030,Right-Handed,21,Female,Greece
+p031,Right-Handed,20,Female,Poland
+p032,Right-Handed,26,Female,Italy
+p033,Right-Handed,20,Male,France
+p034,Right-Handed,22,Male,Portugal
+p035,Right-Handed,24,Female,Italy
+p036,Right-Handed,23,Female,Portugal
+p037,Right-Handed,21,Male,Czech Republic
+p038,Right-Handed,19,Female,Poland
+p039,Right-Handed,18,Male,Poland
+p040,Right-Handed,19,Male,Poland
+p041,Right-Handed,18,Female,Portugal
+p042,Right-Handed,22,Male,Poland
+p043,Right-Handed,19,Male,Hungary
+p044,Right-Handed,19,Male,Poland
+p045,Right-Handed,23,Male,Poland
+p046,Right-Handed,24,Male,Spain
+p047,Right-Handed,21,Male,Italy
+p048,Right-Handed,24,Male,Greece
+p049,Right-Handed,21,Male,Poland
+p050,Right-Handed,21,Male,Poland
+p051,Right-Handed,20,Male,Hungary
+p052,Left-Handed,23,Male,Greece
+p053,Right-Handed,21,Male,Greece
+p054,Right-Handed,23,Female,South Africa
+p055,Right-Handed,24,Female,Czech Republic
+p056,Right-Handed,25,Female,Portugal
+p057,Left-Handed,19,Male,Poland
+p058,Right-Handed,20,Male,Poland
+p059,Right-Handed,19,Male,Italy
+p060,Right-Handed,19,Female,Portugal
+p061,Right-Handed,23,Male,Poland
+p062,Right-Handed,24,Female,South Africa
+p063,Left-Handed,40,Male,France
+p064,Left-Handed,23,Female,Greece
+p065,Right-Handed,19,Male,Portugal
+p066,Right-Handed,20,Female,Portugal
+p067,Right-Handed,31,Male,Indonesia
+p068,Right-Handed,24,Male,Poland
+p069,Right-Handed,20,Male,Slovenia
+p070,Right-Handed,24,Male,Greece
+p071,Right-Handed,18,Male,Poland
+p072,Right-Handed,45,Male,Poland
+p073,Right-Handed,20,Male,Greece
+p074,Right-Handed,19,Male,Portugal
+p075,Right-Handed,25,Female,Italy
+p076,Right-Handed,27,Female,Italy
+p077,Left-Handed,41,Male,United Kingdom
+p078,Right-Handed,29,Male,Myanmar
+p079,Right-Handed,49,Male,Italy
+p080,Right-Handed,34,Female,United Kingdom
+p081,Right-Handed,25,Female,United Kingdom
+p082,Right-Handed,20,Male,Portugal
+p083,Right-Handed,21,Male,Portugal
+p084,Right-Handed,21,Male,Portugal
+p085,Left-Handed,28,Male,South Africa
+p086,Right-Handed,42,Female,Greece
+p087,Right-Handed,19,Male,Poland
+p088,Right-Handed,18,Male,Poland
+p089,Right-Handed,19,Female,South Africa
+p090,Right-Handed,20,Male,Poland
+p091,Right-Handed,23,Female,United States of America
+p092,Right-Handed,21,Male,Portugal
+p093,Right-Handed,20,Male,Poland
+p094,Right-Handed,22,Female,Estonia
+p095,Right-Handed,19,Female,Portugal
+p097,Right-Handed,21,Male,Czech Republic
+p098,Right-Handed,22,Female,Poland
+p099,Right-Handed,20,Male,Portugal
+p100,Right-Handed,24,Female,Greece
