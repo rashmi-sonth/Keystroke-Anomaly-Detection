@@ -2,8 +2,6 @@
 
 This repository is part of the **CS266 - Topics in Information Security** course project titled **"Enhanced Anomaly Detection in Keystroke Dynamics Authentication"**. The project focuses on analyzing different methodologies for anomaly detection in keystroke dynamics authentication, leveraging advanced machine learning and deep learning models.
 
----
-
 ## File Structure
 
 ### **1. Dataset**
