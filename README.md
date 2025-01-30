@@ -1,9 +1,6 @@
 # Enhanced Anomaly Detection in Keystroke Dynamics Authentication
 
-This repository is part of the **CS266 - Topics in Information Security** course project titled **"Enhanced Anomaly Detection in Keystroke Dynamics Authentication"**. The project was submitted as part of the course requirements by the team members:
-- Rashmi Sonth
-
-The project focuses on analyzing different methodologies for anomaly detection in keystroke dynamics authentication, leveraging advanced machine learning and deep learning models.
+This repository is part of the **CS266 - Topics in Information Security** course project titled **"Enhanced Anomaly Detection in Keystroke Dynamics Authentication"**. The project focuses on analyzing different methodologies for anomaly detection in keystroke dynamics authentication, leveraging advanced machine learning and deep learning models.
 
 ---
 
@@ -60,4 +57,3 @@ The project focuses on analyzing different methodologies for anomaly detection i
   - `matplotlib`
   - `seaborn`
   - `sklearn`
-# Keystroke-Anomaly-Detection
